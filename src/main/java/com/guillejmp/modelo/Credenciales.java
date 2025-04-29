@@ -1,4 +1,4 @@
-package modelo;
+package com.guillejmp.modelo;
 
 public class Credenciales {
 	private long id;

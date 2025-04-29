@@ -1,4 +1,4 @@
-package modelo;
+package com.guillejmp.modelo;
 
 import java.util.Date;
 
